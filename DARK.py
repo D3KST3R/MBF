@@ -185,7 +185,7 @@ def menu():
 	os.system('figlet AUTO MBF')
 	print"\033[1;93m=========================================="
 	print"\033[1;92m{*}\033[1;97mgithub : https://github.com/D3KSTER"
-	print"\033[1;92m{*}\033[1;97mRecode by Mr.237
+	print"\033[1;92m{*}\033[1;97mRecode by Mr.237"
 	print"\033[1;92m{✓}\033[1;97mYoutube : ZAISTHA OFFICIAL & DEKSTER GAMING"
 	print"\033[1;93m=========================================="
 	print 42*"\033[1;96m="
@@ -229,7 +229,7 @@ def super():
 	os.system('figlet AUTO MBF')
 	print"\033[1;93m=========================================="
 	print"\033[1;92m{*}\033[1;97mgithub : https://github.com/D3KSTER"
-	print"\033[1;92m{*}\033[1;97mRecode by Mr.237
+	print"\033[1;92m{*}\033[1;97mRecode by Mr.237"
 	print"\033[1;92m{✓}\033[1;97mYoutube : ZAISTHA OFFICIAL & DEKSTER GAMING"
 	print"\033[1;93m=========================================="
 	print 42*"\033[1;96m="
@@ -251,7 +251,7 @@ def pilih_super():
 		os.system('figlet AUTO MBF')
 		print"\033[1;93m=========================================="
 		print"\033[1;92m{*}\033[1;97mgithub : https://github.com/D3KSTER"
-		print"\033[1;92m{*}\033[1;97mRecode by Mr.237
+		print"\033[1;92m{*}\033[1;97mRecode by Mr.237"
 		print"\033[1;92m{✓}\033[1;97mYoutube : ZAISTHA OFFICIAL & DEKSTER GAMING"
 		print"\033[1;93m=========================================="
 		print 42*"\033[1;96m="
@@ -266,7 +266,7 @@ def pilih_super():
 		os.system('figlet AUTO MBF')
 		print"\033[1;93m=========================================="
 		print"\033[1;92m{*}\033[1;97mgithub : https://github.com/D3KSTER"
-		print"\033[1;92m{*}\033[1;97mRecode by Mr.237
+		print"\033[1;92m{*}\033[1;97mRecode by Mr.237"
 		print"\033[1;92m{✓}\033[1;97mYoutube : ZAISTHA OFFICIAL & DEKSTER GAMING"
 		print"\033[1;93m=========================================="
 		print 42*"\033[1;96m="
@@ -290,7 +290,7 @@ def pilih_super():
 		print"\033[1;92m"
 		print"\033[1;93m=========================================="
 		print"\033[1;92m{*}\033[1;97mgithub : https://github.com/D3KSTER"
-		print"\033[1;92m{*}\033[1;97mRecode by Mr.237
+		print"\033[1;92m{*}\033[1;97mRecode by Mr.237"
 		print"\033[1;92m{✓}\033[1;97mYoutube : ZAISTHA OFFICIAL & DEKSTER GAMING"
 		print"\033[1;93m=========================================="
 		print 42*"\033[1;96m="
